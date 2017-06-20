@@ -1,3 +1,0 @@
-/home/yoda/cpp_indie_studio/build/CMakeFiles/edit_cache.dir
-/home/yoda/cpp_indie_studio/build/CMakeFiles/rebuild_cache.dir
-/home/yoda/cpp_indie_studio/build/CMakeFiles/indie_studio.dir
